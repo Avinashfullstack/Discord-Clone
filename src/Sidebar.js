@@ -1,5 +1,6 @@
 import React from 'react';
 import './Sidebar.css';
+import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 function Sidebar() {
 	return (
